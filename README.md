@@ -21,16 +21,15 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   &nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Responsive-Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Responsive-Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
 
 ----
