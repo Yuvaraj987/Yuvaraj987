@@ -24,6 +24,8 @@
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Responsive-Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
