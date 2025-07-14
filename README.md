@@ -1,10 +1,8 @@
-Hi, I'm Yuvaraj C V👋
+  👋 Hi, I'm Yuvaraj C V
 
-Frontend Developer | Passionate about Building Clean, Responsive & Intuitive Interfaces
-
-- 🚀 I love crafting user experiences that are both beautiful and functional.
-- 💻 Skilled in modern frontend technologies, frameworks, and best practices.
-- 🎨 Always learning, experimenting, and building.
+- 🚀 Frontend Developer | Passionate about Building Clean, Responsive & Intuitive Interfaces
+- 💻 Skilled in modern frontend technologies, frameworks, and best practices
+- 🎨 Always learning, experimenting, and building
 
 ----
 
@@ -18,8 +16,8 @@ Frontend Developer | Passionate about Building Clean, Responsive & Intuitive Int
 
 📫 Connect with Me
 
-- [LinkedIn](#) *(www.linkedin.com/in/yuvaraj-c-v-01ba77213)*
-- [Portfolio](#) *(yuvarajcv.netlify.app)*
+- [LinkedIn](#)  *(www.linkedin.com/in/yuvaraj-c-v-01ba77213)*
+- [Portfolio](#)  *(hhtps://yuvarajcv.netlify.app)*
 
 
 📈 GitHub Stats
@@ -27,5 +25,3 @@ Frontend Developer | Passionate about Building Clean, Responsive & Intuitive Int
 ![Yuvaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvaraj987&show_icons=true&theme=radical)
 
 ---
-
-*Let’s build something awesome together!*
