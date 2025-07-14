@@ -18,12 +18,10 @@
 📫 Connect with Me
 
 - [LinkedIn]  *(www.linkedin.com/in/yuvaraj-c-v-01ba77213)*
-- [Portfolio]  *(hhtps://yuvarajcv.netlify.app)*
+- [Portfolio]  *(https://yuvarajcv.netlify.app)*
 
 ----
 
 📈 GitHub Stats
 
 ![Yuvaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvaraj987&show_icons=true&theme=radical)
-
----
