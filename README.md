@@ -8,23 +8,20 @@
 
 🛠️ Skills
 
-- <p align="left">
-  ## 🛠️ Skills
-
 <p align="left">
   <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
-- <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
-- <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/-2196F3?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
 </p>
-- <p align="left">
+<p align="left">
    <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
