@@ -1,4 +1,4 @@
-  👋 Hi, I'm Yuvaraj C V
+  👋 Hi, I'm Yuvaraj C V (he/him)
 
 - 🚀 Frontend Developer | Passionate about Building Clean, Responsive & Intuitive Interfaces
 - 💻 Skilled in modern frontend technologies, frameworks, and best practices
