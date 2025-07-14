@@ -13,12 +13,14 @@
 - Responsive Design & UI/UX
 - Git, GitHub, and modern toolchains
 
+----
 
 📫 Connect with Me
 
-- [LinkedIn](#)  *(www.linkedin.com/in/yuvaraj-c-v-01ba77213)*
-- [Portfolio](#)  *(hhtps://yuvarajcv.netlify.app)*
+- [LinkedIn]  *(www.linkedin.com/in/yuvaraj-c-v-01ba77213)*
+- [Portfolio]  *(hhtps://yuvarajcv.netlify.app)*
 
+----
 
 📈 GitHub Stats
 
