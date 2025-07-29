@@ -18,8 +18,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Responsive-Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
 </p>
 <p align="left">
