@@ -18,9 +18,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=black" alt="Django" />
   &nbsp;
-  <img src="https://img.shields.io/badge/REST API-20232A?style=for-the-badge&logo=rest api&logoColor=61DAFB" alt="REST API" />
+  <img src="https://img.shields.io/badge/REST API-20232A?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Fast API-2196F3?style=for-the-badge&logo=fast api&logoColor=white" alt="Fast API" />
+  <img src="https://img.shields.io/badge/Fast API-2196F3?style=for-the-badge&logo=fast-api&logoColor=white" alt="Fast API" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
