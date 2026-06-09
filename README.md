@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=black" alt="Django" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Responsive-Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/REST API-20232A?style=for-the-badge&logo=rest api&logoColor=61DAFB" alt="REST API" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Fast API-2196F3?style=for-the-badge&logo=fast api&logoColor=white" alt="Fast API" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
