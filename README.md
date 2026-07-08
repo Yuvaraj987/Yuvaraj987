@@ -81,10 +81,18 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 
 ---
 
+## 🌱 Currently Exploring
+
+* **System Design & Architecture:** Deep-diving into Advanced Distributed Systems patterns (Event Sourcing, CQRS, and Event-Driven Microservices).
+* **High Performance Computing:** Optimizing compiled extensions for Python backends and tuning network interface loops.
+* **Cloud Native Orchestration:** Exploring Kubernetes ecosystems and distributed logging fabrics for web-scale resilience.
+
+---
+
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Yuvaraj987&show_icons=true&theme=tokyonight&count_private=true" alt="Yuvaraj's GitHub Stats" width="50%" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Yuvaraj987&show_icons=true&theme=tokyonight&count_private=true" alt="Yuvaraj's GitHub Stats" width="48%" decoding="async" loading="lazy" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yuvaraj987&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" decoding="async" loading="lazy" />
 </p>
 
@@ -95,14 +103,6 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaraj987&theme=tokyo-night" alt="Activity Graph" width="97%" />
 </p>
-
----
-
-## 🌱 Currently Exploring
-
-* **System Design & Architecture:** Deep-diving into Advanced Distributed Systems patterns (Event Sourcing, CQRS, and Event-Driven Microservices).
-* **High Performance Computing:** Optimizing compiled extensions for Python backends and tuning network interface loops.
-* **Cloud Native Orchestration:** Exploring Kubernetes ecosystems and distributed logging fabrics for web-scale resilience.
 
 ---
 
