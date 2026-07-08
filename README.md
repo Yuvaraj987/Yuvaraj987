@@ -1,12 +1,13 @@
 # ⚡ Python Developer | Building High-Throughout Distributed Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Backend+Engineer+%40+SortCore+Technology;Specializing+in+High-Throughput+FastAPI;Optimizing+Distributed+Systems+%26+WebSockets;Designing+Production-Grade+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Python+Developer+%40+SortCore+Technology;Specializing+in+High-Throughout+FastAPI;Optimizing+Distributed+Systems+%26+WebSockets;Designing+Production-Grade+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yuvaraj-c-v-01ba77213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yuvarajmarar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+   <a href="https://www.hackerrank.com/profile/yuvarajmarar"><img src="https://img.shields.io/badge/HackerRank-D14836?style=for-the-badge&logo=hakerank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 <p align="center">
@@ -23,10 +24,10 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 
 ### 🎓 Education
 * **B.Tech. in Computer Science and Engineering (Artificial Intelligence)**
-  Jain (Deemed to-be-University), Bangalore - **8.4 CGPA**
+Jain (Deemed to-be-University), Bangalore - **8.4 CGPA**
 
 ### 💡 Core Expertise
-* **High-Throughput Architectures:** Designing scalable backends managing 1,000+ requests per minute.
+* **High-Throughout Architectures:** Designing scalable backends managing 1,000+ requests per minute.
 * **Real-Time Subsystems:** Developing robust WebSocket event loops and multi-source API synchronizations.
 * **Polyglot Persistence Layering:** Optimizing hybrid storage strategies combining Relational, NoSQL, and In-Memory caches.
 * **Zero-Trust Security:** Architecting middleware with secure JWT verification and granular authorization policies.
@@ -41,8 +42,8 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 | **Backend Frameworks** | `FastAPI` `Django` `REST APIs` `WebSocket Communication` |
 | **Databases & In-Memory** | `PostgreSQL` `MongoDB` `Redis` `MySQL` |
 | **Cloud & Infrastructure** | `AWS (Lambda, API Gateway, DynamoDB, S3, EC2)` `Azure` `Linux` |
-| **Engineering Practices** | `Git & Version Control` `Object-Oriented Programming (OOP)` `Data Structures & Algorithms` `SDLC` `Agile/Scrum` |
 | **Security & Auth** | `JSON Web Tokens (JWT)` `Secure Authentication Protocols` |
+| **Engineering Practices** | `Git & Version Control` `Object-Oriented Programming (OOP)` `Data Structures & Algorithms` `SDLC` `Agile/Scrum` |
 
 ---
 
@@ -50,7 +51,7 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 
 ### 🏢 SortCore Technology
 **Python Developer** | *Oct 2025 – Present*
-* **High-Throughput Core Engines:** Built and optimized backend infrastructure processing **1,000+ requests per minute** utilizing connection pooling, optimized indexing, and highly responsive Python middleware.
+* **High-Throughout Core Engines:** Built and optimized backend infrastructure processing **1,000+ requests per minute** utilizing connection pooling, optimized indexing, and highly responsive Python middleware.
 * **Enterprise Middleware:** Authored robust custom **JWT-secured authentication layers** that guarantee secure, low-latency token verification on cross-cutting endpoints.
 * **Workflow Automation Engine:** Architected and deployed an automated data processing system that slashed report generation turnaround times from **3 hours to 45 minutes**, eliminating **~75% of operational manual labor**.
 * **Real-Time Data Layer:** Crafted a polyglot database layout integrating **PostgreSQL, MongoDB, and Redis**, driving sub-millisecond data delivery via active **WebSocket push streams** and synchronized external API hooks.
