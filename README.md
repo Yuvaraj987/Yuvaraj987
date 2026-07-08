@@ -23,7 +23,7 @@
 I am a results-driven **Backend Engineer** with **1.5+ years of production experience** designing, scaling, and maintaining mission-critical API platforms. My engineering philosophy revolves around end-to-end system ownership, rigorous architectural decisions, and aligning technical execution with measurable business APIs. I thrive within high-bar, fast-moving environments where data processing throughout, sub-millisecond latencies, and production reliability are non-negotiable.
 
 ### 🎓 Education
-* **B.Tech. in Computer Science and Engineering (Artificial Intelligence)** | Jain (Deemed to-be-University), Bangalore - **8.4 CGPA**
+* **B.Tech. in Computer Science and Engineering (Artificial Intelligence)**  |  Jain (Deemed to-be-University), Bangalore - **8.4 CGPA**
 
 ### 💡 Core Expertise
 * **High-Throughout Architectures:** Designing scalable backends managing 1,000+ requests per minute.
@@ -84,8 +84,8 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvaraj987&show_icons=true&theme=tokyonight&count_private=true" alt="Yuvaraj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj987&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Yuvaraj987&show_icons=true&theme=tokyonight&count_private=true" alt="Yuvaraj's GitHub Stats" width="48%" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yuvaraj987&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" decoding="async" loading="lazy" />
 </p>
 
 <p align="center">
