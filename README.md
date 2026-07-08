@@ -1,7 +1,7 @@
 # Python Developer | Building High-Throughout Distributed Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Python+Developer+%40+SortCore+Technology;Specializing+in+High-Throughout+FastAPI;Optimizing+Distributed+Systems+%26+WebSockets;Designing+Production-Grade+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=yellow&center=true&vCenter=true&width=750&lines=Python+Developer+%40+SortCore+Technology;Specializing+in+High-Throughout+FastAPI;Optimizing+Distributed+Systems+%26+WebSockets;Designing+Production-Grade+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
