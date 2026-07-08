@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/yuvaraj-c-v-01ba77213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yuvarajmarar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Yuvaraj987"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
 </p>
 
 <p align="center">
@@ -24,7 +23,7 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 
 ### 🎓 Education
 * **B.Tech. in Computer Science and Engineering (Artificial Intelligence)**
-* Jain (Deemed to-be-University), Bangalore - **8.4 CGPA**
+  Jain (Deemed to-be-University), Bangalore - **8.4 CGPA**
 
 ### 💡 Core Expertise
 * **High-Throughput Architectures:** Designing scalable backends managing 1,000+ requests per minute.
