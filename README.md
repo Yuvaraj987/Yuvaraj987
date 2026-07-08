@@ -1,12 +1,12 @@
 # Python Developer | Building High-Throughout Distributed Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=yellow&center=true&vCenter=true&width=750&lines=Python+Developer+%40+SortCore+Technology;Specializing+in+High-Throughout+FastAPI;Optimizing+Distributed+Systems+%26+WebSockets;Designing+Production-Grade+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Python+Developer+%40+SortCore+Technology;Specializing+in+High-Throughout+FastAPI;Optimizing+Distributed+Systems+%26+WebSockets;Designing+Production-Grade+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yuvaraj-c-v-01ba77213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/profile/yuvarajmarar"><img src="https://img.shields.io/badge/HackerRank-181717?style=for-the-badge&logo=hakerank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.hackerrank.com/profile/yuvarajmarar"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hakerank&logoColor=white" alt="HackerRank" /></a>
   <a href="mailto:yuvarajmarar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
    
 </p>
