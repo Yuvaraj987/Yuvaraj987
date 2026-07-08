@@ -1,4 +1,4 @@
-# ⚡ Senior Backend & Systems Engineer | Building High-Throughput Distributed Platforms
+# ⚡ Python Developer | Building High-Throughput Distributed Platforms
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=⚡+Backend+Engineer+@+SortCore+Technology;🚀+Specializing+in+High-Throughput+FastAPI+Systems;⚙️+Optimizing+Distributed+Systems+%26+WebSockets;🛡️+Designing+Production-Grade+Security+Architectures" alt="Typing SVG" />
