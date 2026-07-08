@@ -6,17 +6,17 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yuvaraj-c-v-01ba77213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/profile/yuvarajmarar"><img src="https://img.shields.io/badge/HackerRank-181717?style=for-the-badge&logo=hakerank&logoColor=white" alt="HackerRank" /></a>
   <a href="mailto:yuvarajmarar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-   <a href="https://www.hackerrank.com/profile/yuvarajmarar"><img src="https://img.shields.io/badge/HackerRank-181717?style=for-the-badge&logo=hakerank&logoColor=white" alt="HackerRank" /></a>
+   
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuvaraj987&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Visitor" />
+  <img src="https://komarev.com/ghpvc/?username=Yuvaraj987&label=VIEWS&color=7aa2f7&style=flat-square" alt="Visitor" />
   <img src="https://img.shields.io/github/stars/Yuvaraj987?color=bb9af7&style=flat-square&label=STARS" alt="Stars" />
   <img src="https://img.shields.io/github/followers/Yuvaraj987?color=7dcfff&style=flat-square&label=FOLLOWERS" alt="Followers" />
 </p>
 
----
 
 ## 🚀 About Me
 
