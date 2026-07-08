@@ -1,4 +1,4 @@
-# ⚡ Python Developer | Building High-Throughout Distributed Platforms
+# Python Developer | Building High-Throughout Distributed Platforms
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Python+Developer+%40+SortCore+Technology;Specializing+in+High-Throughout+FastAPI;Optimizing+Distributed+Systems+%26+WebSockets;Designing+Production-Grade+Security" alt="Typing SVG" />
@@ -7,12 +7,12 @@
 <p align="center">
   <a href="https://linkedin.com/in/yuvaraj-c-v-01ba77213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yuvarajmarar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-   <a href="https://www.hackerrank.com/profile/yuvarajmarar"><img src="https://img.shields.io/badge/HackerRank-D14836?style=for-the-badge&logo=hakerank&logoColor=white" alt="HackerRank" /></a>
+   <a href="https://www.hackerrank.com/profile/yuvarajmarar"><img src="https://img.shields.io/badge/HackerRank-181717?style=for-the-badge&logo=hakerank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuvaraj987&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Visitor Counter" />
-  <img src="https://img.shields.io/github/stars/Yuvaraj987?color=bb9af7&style=flat-square&label=STARS" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Yuvaraj987&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Visitor" />
+  <img src="https://img.shields.io/github/stars/Yuvaraj987?color=bb9af7&style=flat-square&label=STARS" alt="Stars" />
   <img src="https://img.shields.io/github/followers/Yuvaraj987?color=7dcfff&style=flat-square&label=FOLLOWERS" alt="Followers" />
 </p>
 
@@ -84,7 +84,7 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Yuvaraj987&show_icons=true&theme=tokyonight&count_private=true" alt="Yuvaraj's GitHub Stats" width="48%" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Yuvaraj987&show_icons=true&theme=tokyonight&count_private=true" alt="Yuvaraj's GitHub Stats" width="50%" decoding="async" loading="lazy" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yuvaraj987&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" decoding="async" loading="lazy" />
 </p>
 
