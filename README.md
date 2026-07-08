@@ -117,7 +117,7 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
     <img src="https://img.shields.io/badge/Email-yuvarajmarar@gmail.com-D14836?style=for-the-badge&logo=email&logoColor=black" alt="Email" />
   </a>
   <a href="https://github.com/Yuvaraj987">
-    <img src="https://img.shields.io/badge/GitHub-@Yuvaraj987-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-@Yuvaraj987-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
