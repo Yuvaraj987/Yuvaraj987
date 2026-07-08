@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuvaraj987&label=VIEWS&color=7aa2f7&style=flat-square" alt="Visitor" />
-  <img src="https://img.shields.io/github/stars/Yuvaraj987?color=bb9af7&style=flat-square&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Yuvaraj987&label=VIEWS&color=7dcfff&style=flat-square" alt="Visitor" />
+  <img src="https://img.shields.io/github/stars/Yuvaraj987?color=7dcfff&style=flat-square&label=STARS" alt="Stars" />
   <img src="https://img.shields.io/github/followers/Yuvaraj987?color=7dcfff&style=flat-square&label=FOLLOWERS" alt="Followers" />
 </p>
 
@@ -90,7 +90,7 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Yuvaraj987&show_icons=true&theme=tokyonight&count_private=true" alt="Yuvaraj's GitHub Stats" width="48%" decoding="async" loading="lazy" />
