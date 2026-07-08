@@ -110,11 +110,11 @@ I am a results-driven **Backend Engineer** with **1.5+ years of production exper
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:yuvarajmarar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yuvarajmarar@gmail.com-D14836?style=for-the-badge&logo=email&logoColor=black" alt="Email" />
-  </a>
   <a href="https://linkedin.com/in/yuvaraj-c-v-01ba77213">
     <img src="https://img.shields.io/badge/LinkedIn-Yuvaraj%20C%20V-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yuvarajmarar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yuvarajmarar@gmail.com-D14836?style=for-the-badge&logo=email&logoColor=black" alt="Email" />
   </a>
   <a href="https://github.com/Yuvaraj987">
     <img src="https://img.shields.io/badge/GitHub-@Yuvaraj987-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
